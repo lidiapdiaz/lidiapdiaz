@@ -4,7 +4,7 @@
 
 Come and see, i do all kinds of spells, incantations and any other type of ~~magic~~ ✨code✨.
 
-<p style="color: #c482e8">🔮 _I don't use black magic, the spells are with code clean_</p>
+<code style="background-color: #c482e8">🔮 _I don't use black magic, the spells are with code clean_</code>
 
 ## 📜 My spell book contains many tricks like
 
