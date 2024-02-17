@@ -8,11 +8,11 @@ Come and see, i do all kinds of spells, incantations and any other type of ~~mag
 
 ## 📜 My spell book contains many tricks like
 
-<code style="text-align: center;">
+<p style="text-align: center;">
 
 ![spells](/img/book.gif)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=whit) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)</code>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=whit) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)</p>
 
 ## 🕯️ You can summon me
 
