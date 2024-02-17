@@ -18,7 +18,5 @@ Come and see, i do all kinds of spells, incantations and any other type of ~~mag
 
 ![forest](/img/forest2.gif)
 
-<p><code style="background-color: #ffffff;">
-<a href="https://www.instagram.com/lidiapdiaz/"><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Instagram.svg" alt="instagram" title="instagram"/></a>
-</code> <code style="background-color: #ffffff;"> <a href="https://twitter.com/lidiapdiaz" ><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Twitter.svg" alt="twitter" title="twitter"/></a> </code> 
-<code style="background-color: #ffffff;"> <a href="https://www.linkedin.com/in/lidiapdiaz/"><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" alt="Linkedin" title="Linkedin"/></a></code></p>
+<div><code><a href="https://www.instagram.com/lidiapdiaz/"><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Instagram.svg" alt="instagram" title="instagram"/></a>
+</code><code><a href="https://twitter.com/lidiapdiaz" ><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Twitter.svg" alt="twitter" title="twitter"/></a></code><code><a href="https://www.linkedin.com/in/lidiapdiaz/"><img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" alt="Linkedin" title="Linkedin"/></a></code></div>
