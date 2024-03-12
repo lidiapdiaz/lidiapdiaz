@@ -1,6 +1,6 @@
 ![alquimia](/img/github-banner.jpeg)
 
-## 🌱 Greatings fellows!
+## 🌱 Greetings fellows!
 
 Come and see, i do all kinds of spells, incantations and any other type of ~~magic~~ ✨code✨.
 
